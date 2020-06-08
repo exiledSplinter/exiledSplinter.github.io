@@ -1,0 +1,2 @@
+use main.css to control what different classes look like
+can use this by creating a <class> instantiation
