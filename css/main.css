@@ -60,7 +60,7 @@ h2 {
 
 h2,h3,h4 {
 	margin-bottom: 1.5em;
-	color: #28DB18;<!#455350>
+	color: #28DB18; 
 }
 
 h3 {
@@ -162,7 +162,7 @@ ul h4 {
 	height: 46px;
 	width: 925px;
 	position: absolute;
-	background: #28DB18;<!ff3867>
+	background: #28DB18;
 	margin: 35px 0 0 0;
 	line-height: 46px;
 	bottom: 0;
